@@ -1,0 +1,1 @@
+This is some code for POJ(PKU OJ ),I have tested it!
